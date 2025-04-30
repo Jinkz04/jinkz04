@@ -27,7 +27,7 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ajinkyanikam-blue?style=flat&logo=linkedin)](www.linkedin.com/in/ajinkya-nikam-990603119/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ajinkya--nikam-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ajinkya-nikam-990603119/) 
 📷 [Instagram](https://www.instagram.com/_inner_feelings96/) | 📹 [YouTube – WanderSeekQuest](https://www.youtube.com/@WanderSeekQuest)
 
 ---
