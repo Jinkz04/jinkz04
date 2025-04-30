@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Ajinkya Nikam
 
-<!--
-**Jinkz04/jinkz04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Masters in Data Science & Machine Learning  
+💡 Passionate about intelligent systems, automation, and real-world AI applications  
+🚀 Exploring the intersection of Machine Learning, MLOps, and data-driven product development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Interests
+
+- Machine Learning & Deep Learning  
+- MLOps & Model Deployment  
+- Natural Language Processing  
+- Data Analysis & Storytelling  
+- Scalable AI Systems & Automation
+
+---
+
+### 🛠 Tech Stack
+
+**Languages:** Python, SQL  
+**Tools:** GitHub Desktop, VS Code, Google Colab, Jupyter  
+**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+**Concepts:** EDA, Supervised & Unsupervised Learning, Model Evaluation, MLOps fundamentals (CI/CD, Docker, Git workflows)
+
+---
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ajinkyanikam-blue?style=flat&logo=linkedin)](www.linkedin.com/in/ajinkya-nikam-990603119)  
+📷 [Instagram](https://www.instagram.com/_inner_feelings96/) | 📹 [YouTube – WanderSeekQuest](https://www.youtube.com/@WanderSeekQuest)
+
+---
+
+✨ *Constantly learning. Open to collaboration, innovation, and real-world AI challenges.*
